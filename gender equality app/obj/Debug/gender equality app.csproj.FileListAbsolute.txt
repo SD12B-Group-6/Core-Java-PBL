@@ -1,0 +1,11 @@
+C:\Users\acer\OneDrive\Documents\GitHub\Core-Java-PBL\gender equality app\bin\Debug\gender equality app.exe.config
+C:\Users\acer\OneDrive\Documents\GitHub\Core-Java-PBL\gender equality app\bin\Debug\gender equality app.exe
+C:\Users\acer\OneDrive\Documents\GitHub\Core-Java-PBL\gender equality app\bin\Debug\gender equality app.pdb
+C:\Users\acer\OneDrive\Documents\GitHub\Core-Java-PBL\gender equality app\obj\Debug\gender equality app.csproj.AssemblyReference.cache
+C:\Users\acer\OneDrive\Documents\GitHub\Core-Java-PBL\gender equality app\obj\Debug\gender_equality_app.Main.resources
+C:\Users\acer\OneDrive\Documents\GitHub\Core-Java-PBL\gender equality app\obj\Debug\gender_equality_app.Profile.resources
+C:\Users\acer\OneDrive\Documents\GitHub\Core-Java-PBL\gender equality app\obj\Debug\gender_equality_app.Properties.Resources.resources
+C:\Users\acer\OneDrive\Documents\GitHub\Core-Java-PBL\gender equality app\obj\Debug\gender equality app.csproj.GenerateResource.cache
+C:\Users\acer\OneDrive\Documents\GitHub\Core-Java-PBL\gender equality app\obj\Debug\gender equality app.csproj.CoreCompileInputs.cache
+C:\Users\acer\OneDrive\Documents\GitHub\Core-Java-PBL\gender equality app\obj\Debug\gender equality app.exe
+C:\Users\acer\OneDrive\Documents\GitHub\Core-Java-PBL\gender equality app\obj\Debug\gender equality app.pdb
