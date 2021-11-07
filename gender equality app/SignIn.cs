@@ -35,7 +35,7 @@ namespace gender_equality_app
             DB db = new DB();
 
             String username = Username.Text;
-            String password = Password.Text;
+            String password = Password.Text; 
 
             DataTable table = new DataTable();
             MySqlDataAdapter adapter = new MySqlDataAdapter();
@@ -48,13 +48,21 @@ namespace gender_equality_app
             adapter.Fill(table);
 
             //checks if the user exists or not
-            if (table.Rows.Count > 0)
+            if (table.Rows.Count > 0 )
+
             {
                 MessageBox.Show("YES");
+                this.Hide();
+                Dashboard form = new Dashboard();
+                form.Show();
             }
             else
             {
-                MessageBox.Show("NO");
+                MessageBox.Show("NO, SIGN UP NOW");
+                this.Hide();
+                RegisterForm form = new RegisterForm();
+                form.Show(); 
+
             }
                 
         }

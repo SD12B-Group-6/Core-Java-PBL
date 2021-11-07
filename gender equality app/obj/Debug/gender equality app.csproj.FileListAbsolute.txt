@@ -23,3 +23,4 @@ C:\Users\acer\OneDrive\Documents\GitHub\Core-Java-PBL\gender equality app\bin\De
 C:\Users\acer\OneDrive\Documents\GitHub\Core-Java-PBL\gender equality app\bin\Debug\MySql.Data.xml
 C:\Users\acer\OneDrive\Documents\GitHub\Core-Java-PBL\gender equality app\obj\Debug\gender equality app.exe.config
 C:\Users\acer\OneDrive\Documents\GitHub\Core-Java-PBL\gender equality app\obj\Debug\gender_equality_app.RegisterForm.resources
+C:\Users\acer\OneDrive\Documents\GitHub\Core-Java-PBL\gender equality app\obj\Debug\gender_equality_app.Dashboard.resources

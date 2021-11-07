@@ -104,6 +104,8 @@ namespace gender_equality_app
             this.password.TabIndex = 6;
             this.password.Text = "password";
             this.password.UseSystemPasswordChar = true;
+            this.password.Enter += new System.EventHandler(this.password_Enter);
+            this.password.Leave += new System.EventHandler(this.password_Leave);
             // 
             // confirmpassword
             // 
@@ -114,6 +116,8 @@ namespace gender_equality_app
             this.confirmpassword.TabIndex = 7;
             this.confirmpassword.Text = "confirm password";
             this.confirmpassword.UseSystemPasswordChar = true;
+            this.confirmpassword.Enter += new System.EventHandler(this.confirmpassword_Enter);
+            this.confirmpassword.Leave += new System.EventHandler(this.confirmpassword_Leave);
             // 
             // label1
             // 

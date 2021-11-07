@@ -19,7 +19,9 @@ namespace gender_equality_app
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new RegisterForm());
+            Application.Run(new SplashScreen());
+            Application.Run(new SignIn());
+
 
 
         }
