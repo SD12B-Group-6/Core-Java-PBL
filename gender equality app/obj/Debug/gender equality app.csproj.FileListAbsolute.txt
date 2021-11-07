@@ -2,10 +2,24 @@ C:\Users\acer\OneDrive\Documents\GitHub\Core-Java-PBL\gender equality app\bin\De
 C:\Users\acer\OneDrive\Documents\GitHub\Core-Java-PBL\gender equality app\bin\Debug\gender equality app.exe
 C:\Users\acer\OneDrive\Documents\GitHub\Core-Java-PBL\gender equality app\bin\Debug\gender equality app.pdb
 C:\Users\acer\OneDrive\Documents\GitHub\Core-Java-PBL\gender equality app\obj\Debug\gender equality app.csproj.AssemblyReference.cache
-C:\Users\acer\OneDrive\Documents\GitHub\Core-Java-PBL\gender equality app\obj\Debug\gender_equality_app.Main.resources
-C:\Users\acer\OneDrive\Documents\GitHub\Core-Java-PBL\gender equality app\obj\Debug\gender_equality_app.Profile.resources
 C:\Users\acer\OneDrive\Documents\GitHub\Core-Java-PBL\gender equality app\obj\Debug\gender_equality_app.Properties.Resources.resources
 C:\Users\acer\OneDrive\Documents\GitHub\Core-Java-PBL\gender equality app\obj\Debug\gender equality app.csproj.GenerateResource.cache
 C:\Users\acer\OneDrive\Documents\GitHub\Core-Java-PBL\gender equality app\obj\Debug\gender equality app.csproj.CoreCompileInputs.cache
 C:\Users\acer\OneDrive\Documents\GitHub\Core-Java-PBL\gender equality app\obj\Debug\gender equality app.exe
 C:\Users\acer\OneDrive\Documents\GitHub\Core-Java-PBL\gender equality app\obj\Debug\gender equality app.pdb
+C:\Users\acer\OneDrive\Documents\GitHub\Core-Java-PBL\gender equality app\obj\Debug\gender_equality_app.SignIn.resources
+C:\Users\acer\OneDrive\Documents\GitHub\Core-Java-PBL\gender equality app\obj\Debug\gender_equality_app.SplashScreen.resources
+C:\Users\acer\OneDrive\Documents\GitHub\Core-Java-PBL\gender equality app\bin\Debug\MySql.Data.dll
+C:\Users\acer\OneDrive\Documents\GitHub\Core-Java-PBL\gender equality app\bin\Debug\Google.Protobuf.dll
+C:\Users\acer\OneDrive\Documents\GitHub\Core-Java-PBL\gender equality app\bin\Debug\ZstdNet.dll
+C:\Users\acer\OneDrive\Documents\GitHub\Core-Java-PBL\gender equality app\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\acer\OneDrive\Documents\GitHub\Core-Java-PBL\gender equality app\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\acer\OneDrive\Documents\GitHub\Core-Java-PBL\gender equality app\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\acer\OneDrive\Documents\GitHub\Core-Java-PBL\gender equality app\bin\Debug\System.Memory.dll
+C:\Users\acer\OneDrive\Documents\GitHub\Core-Java-PBL\gender equality app\bin\Debug\System.Buffers.dll
+C:\Users\acer\OneDrive\Documents\GitHub\Core-Java-PBL\gender equality app\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\acer\OneDrive\Documents\GitHub\Core-Java-PBL\gender equality app\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\acer\OneDrive\Documents\GitHub\Core-Java-PBL\gender equality app\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\acer\OneDrive\Documents\GitHub\Core-Java-PBL\gender equality app\bin\Debug\MySql.Data.xml
+C:\Users\acer\OneDrive\Documents\GitHub\Core-Java-PBL\gender equality app\obj\Debug\gender equality app.exe.config
+C:\Users\acer\OneDrive\Documents\GitHub\Core-Java-PBL\gender equality app\obj\Debug\gender_equality_app.RegisterForm.resources
