@@ -10,16 +10,23 @@ using System.Windows.Forms;
 
 namespace gender_equality_app
 {
-    public partial class Main : Form
+    public partial class SplashScreen : Form
     {
-        public Main()
+        public SplashScreen()
         {
             InitializeComponent();
         }
 
-        private void Form1_Load(object sender, EventArgs e)
+        private void Form2_Load(object sender, EventArgs e)
         {
+            this.FormBorderStyle = FormBorderStyle.None;
+            
+        }
 
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            timer1.Start();
+            this.Close();
         }
     }
 }

@@ -1,7 +1,7 @@
 ﻿
 namespace gender_equality_app
 {
-    partial class Main
+    partial class Dashboard
     {
         /// <summary>
         /// Required designer variable.
@@ -31,15 +31,14 @@ namespace gender_equality_app
         {
             this.SuspendLayout();
             // 
-            // Main
+            // Dashboard
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Name = "Main";
+            this.Name = "Dashboard";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Main";
-            this.Load += new System.EventHandler(this.Form1_Load);
+            this.Text = "Dashboard";
             this.ResumeLayout(false);
 
         }
@@ -47,4 +46,3 @@ namespace gender_equality_app
         #endregion
     }
 }
-

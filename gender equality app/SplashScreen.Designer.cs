@@ -1,7 +1,7 @@
 ﻿
 namespace gender_equality_app
 {
-    partial class Profile
+    partial class SplashScreen
     {
         /// <summary>
         /// Required designer variable.
